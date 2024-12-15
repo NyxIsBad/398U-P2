@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "parse.h": "c",
+        "com.h": "c",
+        "arith.h": "c",
+        "online.h": "c",
+        "circ.h": "c",
+        "sha.h": "c",
+        "hosts.h": "c",
+        "msg.h": "c",
+        "stdint.h": "c",
+        "pre.h": "c",
+        "stdlib.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c"
+    }
+}

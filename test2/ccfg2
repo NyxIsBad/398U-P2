@@ -1,0 +1,10 @@
+w1 = inp p0
+w2 = inp p1 38
+w3 = inp p1 11
+w4 = inp p0
+
+w5 = mul w1 w3
+w6 = add w4 w2
+w7 = add w5 w6
+
+out w7
